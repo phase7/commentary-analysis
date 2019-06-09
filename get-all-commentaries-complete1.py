@@ -54,17 +54,4 @@ for match_id in matches:
                 json.dump(data,file)
 
             j += 1
-        
-
-
-# In[2]:
-
-
-r
-
-
-# In[3]:
-
-
-os.getcwd()
 
